@@ -62,7 +62,7 @@ translation_tag - Pivot table for many-to-many relations between translations an
 # 1. Clone the Repository
 
     git clone https://github.com/your-repo-url.git
-    cd translation-api
+    change branch master
 
 # 2. Install Dependencies
 
